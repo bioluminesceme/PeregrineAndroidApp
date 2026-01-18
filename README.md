@@ -86,7 +86,7 @@ Supports Plover formatting commands:
 
 ## License
 
-All Rights Reserved. Free for personal use only. See [LICENSE](LICENSE) for details.
+All Rights Reserved. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
