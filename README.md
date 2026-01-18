@@ -93,4 +93,3 @@ All Rights Reserved. See [LICENSE](LICENSE) for details.
 - [Plover](https://www.openstenoproject.org/plover/) - Open source stenography software
 - [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - USB serial library
 - The Open Steno Project community
-- This app was vibe coded with Claude 
